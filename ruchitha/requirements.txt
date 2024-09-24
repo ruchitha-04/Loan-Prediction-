@@ -3,9 +3,7 @@ scikit-learnr
 numpy
 matplotlib 
 seaborn
-flask
-
-
+stramlit
 
 
 
